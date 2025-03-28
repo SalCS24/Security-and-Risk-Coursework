@@ -1,6 +1,6 @@
 # Security-and-Risk-Coursework
 
-# 🔐 Security and Risk Coursework – SCC.363 (2024/25)
+# Security and Risk Coursework – SCC.363 
 
 This repository contains my individual submission for the **Security and Risk** module (SCC.363) at Lancaster University. The coursework covers risk analysis, probability theory, and optimization techniques, implemented entirely in **Python 3**.
 
